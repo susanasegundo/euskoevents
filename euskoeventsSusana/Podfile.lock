@@ -1,15 +1,18 @@
 PODS:
   - Alamofire (4.5.1)
+  - Eureka (4.0.1)
   - SwiftyJSON (4.0.0)
 
 DEPENDENCIES:
   - Alamofire (~> 4.5)
+  - Eureka (~> 4.0)
   - SwiftyJSON (~> 4.0)
 
 SPEC CHECKSUMS:
   Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Eureka: c8bd5cc07143b6f66268c208d28a246c99b41955
   SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
-PODFILE CHECKSUM: ba043a96e986200351810483f9633843158858b9
+PODFILE CHECKSUM: f7fc6cc43dd3d6f807fee20c01109d65dc18275b
 
 COCOAPODS: 1.3.1

@@ -6,7 +6,11 @@
 //  Copyright © 2017 Susana. All rights reserved.
 //
 
-import UIKit
+
+import Alamofire
+import SwiftyJSON
+import Eureka
+
 
 class ViewController: UIViewController {
 
